@@ -1,0 +1,5 @@
+title = "War and Order Tips"
+baseurl = "http://asheron42.github.io"
+languageCode = "en-us"
+buildDrafts = true
+theme = "hugo-theme-learn"
